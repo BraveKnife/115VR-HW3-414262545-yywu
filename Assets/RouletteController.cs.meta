@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4bdb1058975a24617871f15897b7829b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - wheelSound: {fileID: 8300000, guid: dcf50699a77d64f459df280b9a526f6c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
